@@ -1,0 +1,5 @@
+baseURL = "http://kyong-dev.github.io/"
+languageCode = "en-us"
+title = "Kyong"
+theme = "hugo-coder"
+
