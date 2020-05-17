@@ -2,7 +2,7 @@
 headless: true
 ---
 
-- [**Post**]({{< relref "/docs/post" >}})
+- [Blog]({{< relref "/posts" >}})
 - [**Example Site**]({{< relref "/docs/example" >}})
 - [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
   - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
