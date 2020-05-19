@@ -47,12 +47,25 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   # (Optional, default January 2, 2006) Configure the date format used on the pages
   # - In git information
   # - In blog posts
-  BookDateFormat = 'Jan 2, 2006'
+  BookDateFormat = '2 Jan 2006'
   
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
   # Configuration for indexing can be adjusted in i18n folder per language.
   BookSearch = true
+
+  defaultContentLanguageInSubdir = true
+  DefaultContentLanguage = "en"
+  [languages]
+    [languages.en]
+      title = "My Blog"
+      languageName = "English"
+      weight = 1
+    [languages.ko]
+      title = "블로그"
+      languageName = "Korean"
+      weight = 2
+
 
   # (Optional, default true) Enables comments template on pages
   # By default partals/docs/comments.html includes Disqus template
