@@ -6,7 +6,7 @@ menu:
   main:
     parent: tutorials
 next: /tutorials/
-prev: /tutorials/automated-deployments
+prev: /tutorials/python-virtual-environment
 title: Python 개발 가상환경 구축
 weight: 10
 ---
