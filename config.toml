@@ -61,7 +61,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
       title = "My Blog"
       languageName = "English"
       weight = 1
-    [languages.ko]
+    [languages.kr]
       title = "블로그"
       languageName = "Korean"
       weight = 2
